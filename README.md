@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 Dashboards  
+## 📊 Dashboard 
 
 ### 🔹 Sales & Profit Analysis  
 ![Sales Dashboard](Coffe-Shop-Sales-Dashboard.png)   
@@ -15,7 +15,7 @@
 
 ## 🎥 Demo  
 
-**Quick Preview (GIF):**  
+**Quick Preview:**  
 ![Dashboard Demo](Coffee_dashboard.gif)   
 
 ---  
