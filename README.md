@@ -1,4 +1,21 @@
-# Coffee-Shop-Sales--Excel
-This project is an interactive Excel dashboard that provides detailed insights into the sales performance of a coffee shop. It combines key metrics, dynamic visuals, and slicers for effective data exploration and business decision-making.
+# ☕ Coffee Shop Sales Analysis  
 
+## 📌 Overview  
+- Developed interactive **Excel Dashboards** for Coffee Shop Sales & Category analysis  
+- Highlights **sales trends, profit insights, and category performance**   
 
+---
+
+## 📊 Dashboards  
+
+### 🔹 Sales & Profit Analysis  
+![Sales Dashboard](Coffe-Shop-Sales-Dashboard.png)   
+
+---
+
+## 🎥 Demo  
+
+**Quick Preview (GIF):**  
+![Dashboard Demo](Coffee_dashboard.gif)   
+
+---  
