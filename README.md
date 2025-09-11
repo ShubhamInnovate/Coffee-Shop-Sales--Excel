@@ -9,7 +9,7 @@
 ## 📊 Dashboard 
 
 ### 🔹 Sales & Profit Analysis  
-![Sales Dashboard](Coffe-Shop-Sales-Dashboard.png)   
+![Sales Dashboard](Coffee_Shop_Sales_Excel_Dashboard.png)
 
 ---
 
