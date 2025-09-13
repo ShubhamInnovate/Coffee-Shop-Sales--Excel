@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis  
+# ☕ Coffee Shop Sales Analysis --- Excel
 
 ## 📌 Overview  
 - Developed interactive **Excel Dashboards** for Coffee Shop Sales & Category analysis  
@@ -13,7 +13,6 @@
 
 ---
 
-## 🎥 Demo  
 
 **Quick Preview:**  
 ![Dashboard Demo](Coffee_dashboard.gif)   
